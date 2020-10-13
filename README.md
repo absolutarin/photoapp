@@ -1,2 +1,2 @@
 # photoapp
-This is a basic photo vieweing web app. Be easy on me :)
+This is a basic photo viewing web app. Be easy on me :)
